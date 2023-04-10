@@ -3,4 +3,4 @@ description: 'get data for project on fabric'
 author: 'Tapestry Labs'
 runs:
   using: 'node16'
-  main: 'dist/main.js'
+  main: 'dist/index.js'
